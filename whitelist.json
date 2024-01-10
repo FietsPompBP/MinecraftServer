@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "uuid": "dfc89e61-d49f-4f3b-95e5-d28a105954f6",
+    "name": "FietsPompBP"
+  },
+  {
+    "uuid": "1e1e9b86-01d7-447e-8044-9a4a77d1d764",
+    "name": "Axolotling"
+  },
+  {
+    "uuid": "d67f6fe3-6a93-4396-bf88-b41d7df985e5",
+    "name": "Lean_monster"
+  },
+  {
+    "uuid": "344ca5ec-2e9a-498c-984b-a949595b60f8",
+    "name": "PetRock"
+  },
+  {
+    "uuid": "3a9ee32d-fd94-48b4-b0f7-4d859f66a136",
+    "name": "Strawbernie"
+  }
+]

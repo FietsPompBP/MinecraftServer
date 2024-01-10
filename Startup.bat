@@ -1,1 +1,1 @@
-java -Xmx2048M -Xms2048M -jar minecraft_server.1.20.4.jar nogui
+java -Xmx8192M -Xms8192M -jar minecraft_server.1.20.4.jar nogui

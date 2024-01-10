@@ -1,15 +1,28 @@
-[16:51:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:51:54] [ServerMain/ERROR]: Failed to start the minecraft server
-java.io.IOException: The process cannot access the file because another process has locked a portion of the file
-	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:?]
-	at sun.nio.ch.FileDispatcherImpl.write(FileDispatcherImpl.java:75) ~[?:?]
-	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137) ~[?:?]
-	at sun.nio.ch.IOUtil.write(IOUtil.java:81) ~[?:?]
-	at sun.nio.ch.IOUtil.write(IOUtil.java:72) ~[?:?]
-	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:300) ~[?:?]
-	at atu.a(SourceFile:37) ~[server-1.20.4.jar:?]
-	at egm$c.<init>(SourceFile:394) ~[server-1.20.4.jar:?]
-	at egm.d(SourceFile:373) ~[server-1.20.4.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:133) ~[server-1.20.4.jar:?]
-	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:55:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:55:31] [ServerMain/INFO]: Loaded 7 recipes
+[18:55:31] [ServerMain/INFO]: Loaded 1271 advancements
+[18:55:31] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:55:31] [Server thread/INFO]: Loading properties
+[18:55:31] [Server thread/INFO]: Default game type: SURVIVAL
+[18:55:31] [Server thread/INFO]: Generating keypair
+[18:55:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:55:31] [Server thread/INFO]: Using default channel type
+[18:55:31] [Server thread/INFO]: Preparing level "world"
+[18:55:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:55:33] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:55:33] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:55:33] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:55:33] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:55:34] [Server thread/INFO]: Time elapsed: 1966 ms
+[18:55:34] [Server thread/INFO]: Done (2.599s)! For help, type "help"
+[18:56:42] [User Authenticator #1/INFO]: UUID of player FietsPompBP is dfc89e61-d49f-4f3b-95e5-d28a105954f6
+[18:56:42] [Server thread/INFO]: FietsPompBP[/62.163.115.192:63036] logged in with entity id 179 at (86.84768764304006, 73.0, 0.0657904720128956)
+[18:56:42] [Server thread/INFO]: FietsPompBP joined the game
+[18:58:14] [Server thread/INFO]: Added Strawbernie to the whitelist
+[18:58:34] [Server thread/INFO]: That player does not exist
+[19:00:05] [Server thread/INFO]: [FietsPompBP: Added Lean_monster to the whitelist]
+[19:00:37] [Server thread/INFO]: FietsPompBP lost connection: Disconnected
+[19:00:37] [Server thread/INFO]: FietsPompBP left the game
+[19:01:58] [Server thread/INFO]: That player does not exist
+[19:02:21] [Server thread/INFO]: Added Axolotling to the whitelist
+[19:02:32] [Server thread/INFO]: Added PetRock to the whitelist
