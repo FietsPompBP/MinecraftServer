@@ -1,0 +1,15 @@
+[16:51:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:51:54] [ServerMain/ERROR]: Failed to start the minecraft server
+java.io.IOException: The process cannot access the file because another process has locked a portion of the file
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:?]
+	at sun.nio.ch.FileDispatcherImpl.write(FileDispatcherImpl.java:75) ~[?:?]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:137) ~[?:?]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:81) ~[?:?]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:72) ~[?:?]
+	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:300) ~[?:?]
+	at atu.a(SourceFile:37) ~[server-1.20.4.jar:?]
+	at egm$c.<init>(SourceFile:394) ~[server-1.20.4.jar:?]
+	at egm.d(SourceFile:373) ~[server-1.20.4.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:133) ~[server-1.20.4.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
